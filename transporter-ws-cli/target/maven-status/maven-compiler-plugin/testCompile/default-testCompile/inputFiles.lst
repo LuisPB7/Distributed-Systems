@@ -1,0 +1,8 @@
+/home/luispb7/Desktop/A_36-project/transporter-ws-cli/src/test/java/pt/upa/transporter/ws/cli/TransporterClientTest.java
+/home/luispb7/Desktop/A_36-project/transporter-ws-cli/src/test/java/pt/upa/transporter/ws/it/AcceptJobIT.java
+/home/luispb7/Desktop/A_36-project/transporter-ws-cli/src/test/java/pt/upa/transporter/ws/it/JobStatusIT.java
+/home/luispb7/Desktop/A_36-project/transporter-ws-cli/src/test/java/pt/upa/transporter/ws/it/PingIT.java
+/home/luispb7/Desktop/A_36-project/transporter-ws-cli/src/test/java/pt/upa/transporter/ws/it/RequestJobIT.java
+/home/luispb7/Desktop/A_36-project/transporter-ws-cli/src/test/java/pt/upa/transporter/ws/it/RejectJobIT.java
+/home/luispb7/Desktop/A_36-project/transporter-ws-cli/src/test/java/pt/upa/transporter/ws/it/AbstractIT.java
+/home/luispb7/Desktop/A_36-project/transporter-ws-cli/src/test/java/pt/upa/transporter/ws/it/ClearJobIT.java

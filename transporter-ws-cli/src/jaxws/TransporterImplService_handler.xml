@@ -1,0 +1,10 @@
+<handler-chains xmlns="http://java.sun.com/xml/ns/javaee">
+	<handler-chain>
+		<handler>
+			<handler-class>pt.upa.transporter.ws.handler.TransporterClientHandler</handler-class>
+		</handler>
+		<!--handler>
+			<handler-class>example.ws.handler.LoggingHandler</handler-class>
+		</handler!-->
+	</handler-chain>
+</handler-chains>   
